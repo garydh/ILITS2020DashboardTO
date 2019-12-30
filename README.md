@@ -1,2 +1,2 @@
-# Dashboard pendaftaran TO Online Ini Lho ITS
-Proyek dashboard website ini lho its yang berfungsi untuk registrasi dan pembayaran tryout online forda institut teknologi sepuluh nopember
+# Dashboard Pendaftaran Tryout Online Ini Lho ITS!
+Proyek dashboard website Ini Lho ITS! (ILITS) yang berfungsi untuk registrasi dan pembayaran tryout online Forda Institut Teknologi Sepuluh Nopember
